@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "87FSBBW3ass=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bena3\\VSCode_Repos\\VideoStreamDisplay\\VideoStreamDisplay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bena3\\.nuget\\packages\\opencvsharp4\\4.13.0.20260627\\opencvsharp4.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\bena3\\.nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260627\\opencvsharp4.runtime.win.4.13.0.20260627.nupkg.sha512"
+  ],
+  "logs": []
+}
