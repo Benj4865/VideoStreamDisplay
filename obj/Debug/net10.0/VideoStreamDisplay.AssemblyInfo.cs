@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideoStreamDisplay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b12dc3d840d92c2f0ae4c1904ed34f81f4441a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideoStreamDisplay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideoStreamDisplay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
